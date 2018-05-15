@@ -3,6 +3,4 @@
 ## More text
 This is a simple readme file
 
-aasassa
-
-JUST SOME UPDATES
+I hope this isn't mch of a roblem
